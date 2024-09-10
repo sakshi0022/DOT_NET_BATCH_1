@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\csharp\BasicdataType\bin\Debug\net8.0\BasicdataType.exe
+C:\Users\HP\Desktop\csharp\BasicdataType\bin\Debug\net8.0\BasicdataType.deps.json
+C:\Users\HP\Desktop\csharp\BasicdataType\bin\Debug\net8.0\BasicdataType.runtimeconfig.json
+C:\Users\HP\Desktop\csharp\BasicdataType\bin\Debug\net8.0\BasicdataType.dll
+C:\Users\HP\Desktop\csharp\BasicdataType\bin\Debug\net8.0\BasicdataType.pdb
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.dll
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\refint\BasicdataType.dll
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.pdb
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\BasicdataType.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp\BasicdataType\obj\Debug\net8.0\ref\BasicdataType.dll
