@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\csharp\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
