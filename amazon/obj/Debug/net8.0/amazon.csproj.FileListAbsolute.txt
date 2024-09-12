@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\csharp\amazon\bin\Debug\net8.0\amazon.exe
+C:\Users\HP\Desktop\csharp\amazon\bin\Debug\net8.0\amazon.deps.json
+C:\Users\HP\Desktop\csharp\amazon\bin\Debug\net8.0\amazon.runtimeconfig.json
+C:\Users\HP\Desktop\csharp\amazon\bin\Debug\net8.0\amazon.dll
+C:\Users\HP\Desktop\csharp\amazon\bin\Debug\net8.0\amazon.pdb
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.dll
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\refint\amazon.dll
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.pdb
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\amazon.genruntimeconfig.cache
+C:\Users\HP\Desktop\csharp\amazon\obj\Debug\net8.0\ref\amazon.dll

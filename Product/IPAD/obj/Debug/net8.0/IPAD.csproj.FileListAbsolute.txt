@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\csharp\ipad\obj\Debug\net8.0\IPAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\csharp\ipad\obj\Debug\net8.0\IPAD.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\csharp\ipad\obj\Debug\net8.0\IPAD.AssemblyInfo.cs
+C:\Users\HP\Desktop\csharp\ipad\obj\Debug\net8.0\IPAD.csproj.CoreCompileInputs.cache
